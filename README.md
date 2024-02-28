@@ -5,13 +5,13 @@
 
 
 
-<h3 align="center">A passionate blockchain and AI from Poland Based in Medellin🇵🇱💚🇨🇴</h3>
+<h3 align="center">A passionate blockchain and AI from Poland Based in Medellin 🇵🇱💚🇨🇴</h3>
 
 <br/>
 
 <div align="center">
 
-- 🔭 I’m currently working on **something cool🙈🙊**
+- 🔭 I’m currently working on **something cool🙈🙉🙊**
 
 - 🌱 I’m currently learning **Solidity and Artificial Intelligence**
 
