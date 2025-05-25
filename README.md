@@ -11,7 +11,7 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on **something cool🙈🙉🙊**
+- 🔭 I’m currently working on **something cool🙈 🙉 🙊**
  
 - 🌱 I’m currently learning **Solidity and Artificial Intelligence**
 
