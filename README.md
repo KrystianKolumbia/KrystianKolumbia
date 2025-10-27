@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **krystiankolumbia@gmail.com**
 
-- ⚡ Fun fact **I speak in 4 languages 🇪🇸🇬🇧🇵🇱🇷🇺**
+- ⚡ Fun fact **I speak in 4 languages 🇪🇸 🇬🇧🇵🇱🇷🇺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
