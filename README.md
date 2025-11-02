@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">A passionate blockchain and AI from Poland Based in Medellin 🇵🇱💚 🇨🇴</h3>
+<h3 align="center">A passionate blockchain and AI from Poland Based in Medellin 🇵🇱💚🇨🇴</h3>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **krystiankolumbia@gmail.com**
 
-- ⚡ Fun fact **I speak in 4 languages 🇪🇸 🇬🇧🇵🇱🇷🇺**
+- ⚡ Fun fact **I speak in 4 languages 🇪🇸🇬🇧🇵🇱🇷🇺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
